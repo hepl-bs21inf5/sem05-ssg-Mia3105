@@ -4,12 +4,11 @@
   "main": "index.js",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"  
+    "build": "eleventy"
   },
   "author": "Mia Cotter",
   "license": "GPL-3.0",
   "description": "",
-  "type": "module",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
   }
