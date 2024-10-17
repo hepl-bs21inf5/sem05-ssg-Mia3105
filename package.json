@@ -1,0 +1,15 @@
+{
+  "name": "aventure",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Mia Cotter",
+  "license": "GPL-3.0",
+  "description": "",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}
